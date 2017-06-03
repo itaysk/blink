@@ -1,0 +1,13 @@
+<div class="list-group" *ngIf="results.length>0" (keyup)="handleKeypress($event)">
+    <a #res class="list-group-item list-group-item-action flex-column align-items-start" [href]="result.url" *ngFor="let result of results; let i=index"
+        [tabindex]="i+2">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">{{result.title}}</h5>
+            <a [routerLink]="['link',result.id]">
+                <div class="icon-edit"></div>
+            </a>
+        </div>
+        <p class="mb-1">{{result.description}}</p>
+        <small class="text-muted">{{result.url}}</small>
+    </a>
+</div>

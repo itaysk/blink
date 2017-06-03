@@ -1,0 +1,341 @@
+{
+  "@odata.context": "https://blink-search.search.windows.net/indexes('links')/$metadata#docs(tags)",
+  "value": [
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure",
+        "premier",
+        "readiness"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "IoT-Hub",
+        "IoT",
+        "Cost",
+        "Calculator",
+        "Azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "MVA",
+        "Video-Courses",
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure",
+        "office365,dynamics"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure",
+        "readiness"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure",
+        "readiness"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "certification",
+        "library",
+        "mslibrary",
+        "training",
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "Azure",
+        "AWS",
+        "GCP",
+        "Cloud",
+        "RSS",
+        "List",
+        "Learn"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure",
+        "israel"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure",
+        "sql"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "office365",
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure",
+        "documentdb"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "Azure",
+        "Machine-Learning",
+        "Algorithm"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "Compete",
+        "Azure",
+        "AWS",
+        "GCP"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure",
+        "office365"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure",
+        "israel"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "azure",
+        "office365"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "tags": [
+        "migrate",
+        "migration",
+        "azure"
+      ]
+    }
+  ],
+  "@odata.nextLink": "https://blink-search.search.windows.net/indexes('links')/docs?search=az%2A&searchFields=tags&$select=tags&api-version=2015-02-28&$skip=50"
+}

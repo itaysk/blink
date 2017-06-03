@@ -1,0 +1,42 @@
+{
+  "name": "blink-client-web",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^4.0.2",
+    "@angular/common": "^4.0.2",
+    "@angular/compiler": "^4.0.2",
+    "@angular/compiler-cli": "^4.0.2",
+    "@angular/core": "^4.0.2",
+    "@angular/forms": "^4.0.2",
+    "@angular/http": "^4.0.2",
+    "@angular/platform-browser": "^4.0.2",
+    "@angular/platform-browser-dynamic": "^4.0.2",
+    "@angular/platform-server": "^4.0.2",
+    "@angular/router": "^4.0.2",
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.22",
+    "core-js": "^2.4.1",
+    "primeng": "^2.0.5",
+    "rxjs": "^5.1.0",
+    "typescript": "^2.2.2",
+    "zone.js": "^0.7.6"
+  },
+  "devDependencies": {
+    "@angular/cli": "1.0.0",
+    "@angular/compiler-cli": "^2.4.0",
+    "@types/jasmine": "2.5.38",
+    "@types/node": "~6.0.60",
+    "codelyzer": "~2.0.0",
+    "ts-node": "~2.0.0",
+    "tslint": "~4.5.0",
+    "typescript": "~2.0.0"
+  }
+}

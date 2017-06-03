@@ -1,0 +1,97 @@
+{
+    "@odata.context": "https://blink-search.search.windows.net/indexes('links')/$metadata#docs(title,description,url,tags)",
+    "value": [
+        {
+            "@search.text": "http://ceinsights/Pages/AzureBI.aspx",
+            "title": "Azure reports homepage",
+            "description": "All Azure related internal reports",
+            "url": "http://ceinsights/Pages/AzureBI.aspx",
+            "tags": [
+                "azure"
+            ]
+        },
+        {
+            "@search.text": "FTEs in appropriate roles can get unlimited Azure subscription for daily work \\ readiness",
+            "title": "Azure internal subscription request",
+            "description": "FTEs in appropriate roles can get unlimited Azure subscription for daily work \\ readiness",
+            "url": "https://microsoft.sharepoint.com/teams/AzAccess",
+            "tags": [
+                "azure"
+            ]
+        },
+        {
+            "@search.text": "Azure Service Health Dashboard",
+            "title": "Azure Service Health Dashboard",
+            "description": "",
+            "url": "http://status.azure.com",
+            "tags": [
+                "azure"
+            ]
+        },
+        {
+            "@search.text": "Estimate DWU for Azure Data Warehouse",
+            "title": "DWU Calculator",
+            "description": "Estimate DWU for Azure Data Warehouse",
+            "url": "http://dwucalculator.azurewebsites.net/",
+            "tags": [
+                "azure"
+            ]
+        },
+        {
+            "@search.text": "https://microsoft.sharepoint.com/teams/Israel_BPM/Azure/",
+            "title": "Azure Reports - Israel",
+            "description": "Azure data from the Israel BPM team",
+            "url": "https://microsoft.sharepoint.com/teams/Israel_BPM/Azure/",
+            "tags": [
+                "azure",
+                "israel"
+            ]
+        },
+        {
+            "@search.text": "Azure Service Health Dashboard Backup",
+            "title": "Azure Service Health Dashboard Backup",
+            "description": "",
+            "url": "http://www.microsoftazurestatus.com",
+            "tags": [
+                "azure"
+            ]
+        },
+        {
+            "@search.text": "Azure architecture guidance from patterns & practices",
+            "title": "Azure Guidance",
+            "description": "Azure architecture guidance from patterns & practices",
+            "url": "https://github.com/mspnp/azure-guidance",
+            "tags": [
+                "azure",
+                "readiness"
+            ]
+        },
+        {
+            "@search.text": "Internal View of Customer Azure Deployments. Details on Subscription Owner(s), e-mails, insight into active SI Impact on a specific subscription.",
+            "title": "ACIS (Azure Customer Information System)",
+            "description": "Internal View of Customer Azure Deployments. Details on Subscription Owner(s), e-mails, insight into active SI Impact on a specific subscription.",
+            "url": "https://ACISportal.cloudapp.net",
+            "tags": [
+                "azure"
+            ]
+        },
+        {
+            "@search.text": "https://azure.microsoft.com/en-us/pricing/calculator/channel/",
+            "title": "Azure pricing calculator (channel)",
+            "description": "like azure pricing calculator but for EA",
+            "url": "https://azure.microsoft.com/en-us/pricing/calculator/channel/",
+            "tags": [
+                "azure"
+            ]
+        },
+        {
+            "@search.text": "Azure Reliability related content and information, including documents to help having the reliability discussion with customers, uptime indormation and service incidents data",
+            "title": "Azure Reliability Site",
+            "description": "Azure Reliability related content and information, including documents to help having the reliability discussion with customers, uptime indormation and service incidents data",
+            "url": "https://microsoft.sharepoint.com/teams/AzureReliability",
+            "tags": [
+                "azure"
+            ]
+        }
+    ]
+}

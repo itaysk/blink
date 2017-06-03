@@ -1,0 +1,31 @@
+<form id="blinkSubmitForm" name="blinkSubmitForm" novalidate (ngSubmit)="onSubmit()" #submitForm="ngForm">
+  <div class="form-group" *ngIf="formMode.getValue() == FormMode.Edit">
+    <label for="id">Id</label>
+    <input readonly type="text" class="form-control" id="id" name="id" [(ngModel)]="model.id">
+  </div>
+  <div class="form-group" [ngClass]='{"has-danger":url.invalid&&url.touched}'>
+    <label for="url">Url</label>
+    <input class="form-control" [ngClass]='{"form-control-danger":url.invalid&&url.touched}' autofocus type="url" id="url" name="url"
+      placeholder="Url" [(ngModel)]="model.url" required #url="ngModel" />
+  </div>
+  <div class="form-group" [ngClass]='{"has-danger":title.invalid&&title.touched}'>
+    <label for="title">Title</label>
+    <input type="text" class="form-control" [ngClass]='{"form-control-danger":title.invalid&&title.touched}' id="title" name="title"
+      placeholder="Title" [(ngModel)]="model.title" required #title="ngModel">
+  </div>
+  <div class="form-group">
+    <label for="description">Description</label>
+    <textarea class="form-control" id="description" name="description" rows="3" placeholder="Description" [(ngModel)]="model.description"></textarea>
+  </div>
+  <div class="form-group">
+    <label for="tags">Tags</label>
+    <div class="form-control">
+      <span class="badge badge-default tag" *ngFor="let tag of model.tags" (click)="removeTag(tag)">
+        {{tag}}&nbsp;x
+      </span>
+      <input type="text" id="tags" #tags name="tags" [ngbTypeahead]="searchTag" (selectItem)="addTag($event)">
+    </div>
+  </div>
+  <button class="btn btn-primary" type="submit" [disabled]="!submitForm.form.valid || formState.getValue() == FormState.Processing">Submit</button>
+  <img src="/assets/spinner.gif" *ngIf="formState.getValue() == FormState.Processing" />
+</form>

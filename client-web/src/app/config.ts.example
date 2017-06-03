@@ -1,0 +1,7 @@
+export var config = {
+    searchServiceUrl : "https://blink.search.windows.net",
+    searchIndexName : "blink",
+    searchAuthKey : "0123456789ABCDEF0123456789ABCDEF",
+    serverUrl : "https://blink.azurewebsites.net/api",
+    serverAuthKey : "aG9zdGF1dGhrZXlob3N0YXV0aGtleWhvc3RhdXRoa2V5aG9zdGF1dA=="
+}

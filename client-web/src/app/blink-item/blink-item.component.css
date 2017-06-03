@@ -1,0 +1,9 @@
+input#tags {
+  border: 0;
+  outline: 0;
+}
+
+.tag {
+  margin-right: 0.3em;
+  cursor: pointer;
+}
