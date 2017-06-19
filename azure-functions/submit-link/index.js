@@ -37,6 +37,7 @@ module.exports = function (context, req) {
         }
     }).then(function (linkId) {
         doc.id = linkId;
+        doc.created = new Date().toISOString();
         return common.searchAction(doc, "upload");
     }).then(function (searchActionRes) {
         //no need to check status code becuase they'll be rejected be promise
