@@ -1,5 +1,9 @@
 Blink is a collaborative bookmarking tool for teams, just like your browser's bookmarks, but shared. I created it for our team at work. It's build for Microsoft Azure.
 
+Background: 
+
+[http://blog.itaysk.com/2017/09/19/blink-quickly-find-links](http://blog.itaysk.com/2017/09/19/blink-quickly-find-links)
+
 System overview:
 
 ![architecture](./architecture.png)
